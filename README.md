@@ -21,3 +21,4 @@ El programa simula un conjunto de nodos en una red distribuida que pueden detect
 
 - Python 3.x
 
+![dog-computer](https://github.com/LuisRosado/Algoritmo_de_Detecci-n_y_Recuperaci-n_de_Fallos/assets/140114139/03d9ceea-8ef2-477d-8eaa-9c7dc9b0dac1)
